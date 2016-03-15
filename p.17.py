@@ -1,4 +1,5 @@
 #!/usr/local/env python
+# version 0.1-release.20160315
 import os, json, math, random
 os.chdir(os.path.dirname(__file__))
 my_file = open('./data.json')
